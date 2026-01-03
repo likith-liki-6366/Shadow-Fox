@@ -1,11 +1,11 @@
 git clone https://github.com/likith-liki-6366/Shadow-Fox.git
 
-2. Navigate to the Project
+1. Navigate to the Project
 bash
 Copy code
 cd ShadowFox
 
-3. Run Python Files
+2. Run Python Files
 bash
 Copy code
 python "Beginner Level/program1.py"
